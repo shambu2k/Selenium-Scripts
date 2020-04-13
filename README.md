@@ -9,10 +9,12 @@
  1. ### Whatsapp Broadcast Script
 	A dead simple script to broadcast messages to many people (Even to people not saved in your contacts!)
 	#### Usage
-	* Enter your message and all the numbers in a list.
+	* Enter your message.
 	> `msg =  'Hello!'  #Enter your message here`
-  
+	* Enter all numbers in a list.
 	> `number =  ['+91964744235',  '+91583853853']  #Enter all numbers here`
+	* Now run the script
+	> `python WhatsappBroadcast.py`
 	* Scan the QR code when whatsapp web opens.
 	* Thats it! Watch the script sending messages!
 
